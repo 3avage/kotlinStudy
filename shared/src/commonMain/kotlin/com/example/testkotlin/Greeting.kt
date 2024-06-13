@@ -9,6 +9,7 @@ class Greeting {
 //        ValuePassTypeFunc()
 //        InheritTest()
         ByClass()
+        CompanionObject.invoke()
         return "Hello, ${platform.name}!"
     }
 }
